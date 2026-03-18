@@ -3,3 +3,10 @@ body {
     background: pink;
     text-align: center;
 }
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Helvetica, Arial, sans-serif;
+}
